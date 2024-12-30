@@ -27,5 +27,5 @@ The dataset contains information on:
    LIMIT 10;
 
 
-# I have also build a student registration form integrating the SQL database using Flask and HTML.
-# Second folder is about the student registration form integrating the SQL database using Flask and HTML.
+### I have also build a student registration form integrating the SQL database using Flask and HTML.
+### Second folder is about the student registration form integrating the SQL database using Flask and HTML.
